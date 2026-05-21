@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Usama Rana
+name: Usama Zulfiqar
 education: BSCS — Final Year
 role: Software Engineer | Data Analyst
 location: Pakistan 🇵🇰
