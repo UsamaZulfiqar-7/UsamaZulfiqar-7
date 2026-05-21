@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Usama%20Rana&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Analyst&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Usama%20Rana&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Frontend%20Developer%20%7C%20Data%20Analyst&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%8E%A8;Data+Analyst+%F0%9F%93%8A;Figma+Designer+%F0%9F%96%8C%EF%B8%8F;Final+Year+BSCS+Student+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%9A%80;Frontend+Developer+%F0%9F%8E%A8;Data+Analyst+%F0%9F%93%8A;Figma+Designer+%F0%9F%96%8C%EF%B8%8F;Final+Year+BSCS+Student+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 </div>
 
