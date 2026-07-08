@@ -24,7 +24,7 @@
 
 ```yaml
 name        : Usama Zulfiqar
-degree      : BS Computer Science — University of Lahore (CGPA: 3.88 / 4.0)
+degree      : BS Computer Science — University of Lahore (CGPA: 3.87 / 4.0)
 role        : Software Engineer | Frontend Developer | Data Analyst
 location    : Sargodha, Pakistan 🇵🇰
 status      : ✅ Available for Remote (Worldwide) & On-site (Pakistan) Roles
