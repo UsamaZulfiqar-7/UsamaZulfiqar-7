@@ -181,8 +181,8 @@ Supervised ML model using regression algorithms and feature engineering to predi
 | Degree | Institution | Year | Grade |
 |--------|-------------|------|-------|
 | 🎓 BS Computer Science | University of Lahore | 2026 | **CGPA: 3.87 / 4.0** |
-| 📘 Intermediate (Pre-Engineering) | ABICS Sargodha | 2020 | — |
-| 📗 Matriculation | ABICS Sargodha | 2018 | — |
+| 📘 Intermediate (Pre-Engineering) | ABICS Sargodha | 2020 | ——— |
+| 📗 Matriculation | ABICS Sargodha | 2018 | ——— |
 
 ---
 
