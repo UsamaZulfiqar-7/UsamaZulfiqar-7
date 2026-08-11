@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-portfolio--demo.vercel.app-a78bfa?style=for-the-badge)](https://portfolio-demo.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-portfolio--demo.vercel.app-a78bfa?style=for-the-badge)](portfolio-jade-ten-83.vercel.app)
 [![Email](https://img.shields.io/badge/Gmail-usamazulfiqar173%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usamazulfiqar173@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-zulfiqar-2570ba343/)
 
@@ -200,7 +200,7 @@ Supervised ML model using regression algorithms and feature engineering to predi
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-a78bfa?style=for-the-badge)](https://portfolio-demo.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-a78bfa?style=for-the-badge)](portfolio-jade-ten-83.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-zulfiqar-2570ba343/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usamazulfiqar173@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UsamaZulfiqar-7)
