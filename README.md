@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-portfolio--demo.vercel.app-a78bfa?style=for-the-badge)](portfolio-jade-ten-83.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Site-a78bfa?style=for-the-badge)](https://portfolio-jade-ten-83.vercel.app/)
 [![Email](https://img.shields.io/badge/Gmail-usamazulfiqar173%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usamazulfiqar173@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-zulfiqar-2570ba343/)
 
@@ -28,7 +28,7 @@ degree      : BS Computer Science — University of Lahore (CGPA: 3.87 / 4.0)
 role        : Software Engineer | Frontend Developer | Data Analyst
 location    : Sargodha, Pakistan 🇵🇰
 status      : ✅ Available for Remote (Worldwide) & On-site (Pakistan) Roles
-experience  : 2+ years of hands-on development across web, data & AI domains
+experience  : Data Science & Analytics Intern @ DevelopersHub Corporation
 passion     : Building things that look great and work even better
 ```
 
@@ -49,11 +49,13 @@ passion     : Building things that look great and work even better
 ### ⚛️ Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📊 Data & Analytics
@@ -78,7 +80,7 @@ passion     : Building things that look great and work even better
 ### 🌐 Full-Stack Web Development
 - Build **modern, responsive** web apps with React.js
 - RESTful APIs with **Node.js & Express**
-- Database design with **MongoDB & PostgreSQL**
+- Database design with **MongoDB, MySQL & PostgreSQL**
 - Clean, maintainable code following **best practices**
 
 </td>
@@ -86,7 +88,7 @@ passion     : Building things that look great and work even better
 
 ### 📈 Data Analytics & BI
 - Analyze datasets using **Python, Pandas & SQL**
-- Interactive dashboards in **Power BI**
+- Interactive dashboards in **Power BI & Streamlit**
 - Automate reporting workflows with **Excel**
 - Deliver insights that drive **real decisions**
 
@@ -96,8 +98,8 @@ passion     : Building things that look great and work even better
 <td width="50%">
 
 ### 🤖 Machine Learning & AI
-- Build **CNN-based** image classification models
-- Supervised ML with **Scikit-learn & regression**
+- Classification, clustering & time-series forecasting
+- Supervised ML with **Scikit-learn** + SHAP explainability
 - End-to-end ML pipelines with feature engineering
 - Wrap models in **user-friendly GUIs**
 
@@ -122,36 +124,36 @@ passion     : Building things that look great and work even better
 <tr>
 <td width="50%">
 
-### 🔍 Lost & Found Platform
-> React.js · Node.js · MongoDB
+### 🧹 CleanAI
+> Python · Streamlit · Data Engineering
 
-Full-featured web platform for reporting and searching lost/found items. Interactive UI, real-time user messaging, and a robust MongoDB database.
+Professional data-cleaning web app with a polished UI — handles missing values, duplicates & outliers, then exports clean reports as PDF.
 
 </td>
 <td width="50%">
 
-### 💵 Fake Currency Detection
-> Python · CNN · Deep Learning
+### 🎙️ Azi — Voice Assistant
+> Python · Speech Recognition · Claude API
 
-CNN-based image classifier to detect counterfeit currency notes with high accuracy, wrapped in a polished graphical user interface.
+Voice-controlled Windows personal assistant with wake-word detection, system-level controls, and an LLM fallback for open-ended queries.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📊 Business Analytics Dashboard
-> Power BI · Excel
+### 📊 ML & Data Science Portfolio
+> Python · Scikit-learn · SHAP
 
-Interactive BI dashboard visualizing KPIs, sales trends, and performance metrics through dynamic charts and automated reports.
+Five end-to-end projects — classification, clustering, time-series forecasting, cost-optimized risk modeling & a Streamlit BI dashboard — on real-world datasets, fully documented in Jupyter notebooks.
 
 </td>
 <td width="50%">
 
-### 🏠 House Price Prediction
-> Python · Scikit-learn · Regression
+### 🔍 Lost & Found Platform
+> React.js · Node.js · MongoDB
 
-Supervised ML model using regression algorithms and feature engineering to predict house prices with strong accuracy.
+Full-featured web platform for reporting and searching lost/found items, with interactive UI and real-time user messaging.
 
 </td>
 </tr>
@@ -200,7 +202,7 @@ Supervised ML model using regression algorithms and feature engineering to predi
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-a78bfa?style=for-the-badge)](portfolio-jade-ten-83.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-a78bfa?style=for-the-badge)](https://portfolio-jade-ten-83.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-zulfiqar-2570ba343/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usamazulfiqar173@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UsamaZulfiqar-7)
