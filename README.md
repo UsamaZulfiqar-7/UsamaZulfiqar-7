@@ -132,7 +132,7 @@ Professional data-cleaning web app with a polished UI — handles missing values
 </td>
 <td width="50%">
 
-### 🎙️ Azi — Voice Assistant
+### 🎙️ Sam — Voice Assistant
 > Python · Speech Recognition · Claude API
 
 Voice-controlled Windows personal assistant with wake-word detection, system-level controls, and an LLM fallback for open-ended queries.
